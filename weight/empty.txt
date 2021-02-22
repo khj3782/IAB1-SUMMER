@@ -1,0 +1,2 @@
+Empty folder!
+Weight file will be stored here.
