@@ -18,6 +18,6 @@
 4. 히트맵을 그려 수집한 feature간 관계 확인
 5. Random Forest와 Decision Tree
 
-참고한 페이지
-> https://wikidocs.net/44249
-> https://www.ranks.nl/stopwords/korean
+## 참고한 페이지
+- https://wikidocs.net/44249
+- https://www.ranks.nl/stopwords/korean
